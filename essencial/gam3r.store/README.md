@@ -79,3 +79,33 @@ Learn more about the power of Turborepo:
 - [Filtering](https://turbo.build/repo/docs/core-concepts/monorepos/filtering)
 - [Configuration Options](https://turbo.build/repo/docs/reference/configuration)
 - [CLI Usage](https://turbo.build/repo/docs/reference/command-line-reference)
+
+# ecommerce
+
+## Aula 01
+
+Rodar o projeto 
+
+## Aula 02
+
+### backend
+
+será utilizado o nestjs: https://docs.nestjs.com/
+
+Na pasta essencial rodar os comandos: 
+
+'npm i -g @nestjs/cli'
+
+'nest new backend'
+
+![alt text](image.png)
+
+### Documentação
+
+https://turbo.build/repo/docs/getting-started/installation
+
+https://www.prisma.io/docs/getting-started/quickstart
+
+https://nextjs.org/docs/getting-started/installation
+
+https://nodejs.org/docs/latest/api/
